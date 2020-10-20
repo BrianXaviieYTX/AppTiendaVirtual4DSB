@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "AppT_virtual4DSB"
